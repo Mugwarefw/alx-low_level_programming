@@ -1,4 +1,3 @@
-  
 #include <stdio.h>
 
 /**
@@ -19,3 +18,4 @@ putchar(c);
 putchar('\n');
 return (0);
 }
+
